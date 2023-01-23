@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AndroidMI</string>
+    <string name="name">Название:</string>
+    <string name="address">Страна:</string>
+    <string name="num">Количество:</string>
+    <string name="time_open">Дата продажи:</string>
+    <string name="time_close">Дата вылета:</string>
+    <string name="parking">Общая сумма:</string>
+    <string name="is_delivery">Распродано:</string>
+    <string name="comment">Описание:</string>
+    <string name="button_ok">Ок</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_del">Удалить</string>
+    <string name="button_edit">Изменить</string>
+    <string name="name_hint">Название</string>
+    <string name="address_hint">Страна</string>
+    <string name="num_hint">шт.</string>
+    <string name="time_open_hint">дата</string>
+    <string name="time_close_hint">дата</string>
+    <string name="parking_hint">руб.</string>
+    <string name="is_delivery_hint">Да/Нет</string>
+    <string name="comment_hint">Введите описание</string>
+    <string name="plus_button_description">Довавить тур</string>
+    <string name="plus">➕</string>
+    <string name="for_start">Для начала откройте NavigationView</string>
+    <string name="for_sort">Для сортировки по желаемому атрибуту -
+        зажмите соответствующее поле</string>
+    <string-array name="all_years">
+        <item>Все годы</item>
+    </string-array>
+</resources>
